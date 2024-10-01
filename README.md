@@ -1,11 +1,12 @@
-
+![logo](https://github.com/Muhammad-hassan18/Muhammad-hassan18/blob/main/github2.png)
 # 💫 About Me:
 🔭 I’m currently working on Frontend<br>🤝 I’m looking for help with optimizing solutions in Frontend<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about  HTML CSS JAVASCRIPT C++ PYTHON<br>⚡ Did you know that the first website was created in 1991?
 
-<img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+<img align="top" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 
 ## 🌐 Socials:
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 
