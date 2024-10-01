@@ -1,4 +1,4 @@
-![logo]
+
 # 💫 About Me:
 🔭 I’m currently working on Frontend<br>🤝 I’m looking for help with optimizing solutions in Frontend<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about  HTML CSS JAVASCRIPT C++ PYTHON<br>⚡ Did you know that the first website was created in 1991?
 
