@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend<br>🤝 I’m looking for help with optimizing solutions in Frontend<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about  HTML CSS JAVASCRIPT C++ PYTHON<br>⚡ Did you know that the first website was created in 1991?
+🔭 I’m currently working in data analysis <br>🤝 I’m looking for help with optimizing solutions in data analytics<br>🌱 I’m currently learning SQL<br>💬 Ask me about  SQL Excel Power BI Python <br>
 
 <img align="top" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
