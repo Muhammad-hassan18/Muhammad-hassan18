@@ -2,7 +2,7 @@
 🔭 I’m currently working on practical data analysis projects.<br>👯 I’m looking to collaborate on Data cleaning and visualization projects.<br>🤝 I’m looking for help with best practices for data cleaning and visualizations.<br>🌱 I’m currently learning Microsoft Excel, SQL, Power BI.<br>💬 Ask me about Excel, Power BI, SQL.<br>⚡ I enjoy turning messy datasets into clean, structured information that tells a story.
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hassan-859563333) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassanarif1022@gmail.com)  
 
 # 💻 Tech Stack:
