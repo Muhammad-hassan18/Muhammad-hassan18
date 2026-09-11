@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on practical data analysis projects.<br>👯 I’m looking to collaborate on Data cleaning and visualization projects.<br>🤝 I’m looking for help with best practices for data cleaning and visualizations.<br>🌱 I’m currently learning Microsoft Excel, SQL, Power BI.<br>💬 Ask me about Excel, Power BI, SQL.<br>⚡ I enjoy turning messy datasets into clean, structured information that tells a story.
+🔭 I’m currently working on practical data analysis projects.<br>👯 I’m looking to collaborate on Data cleaning and visualization projects.<br>🤝 I’m looking for help with best practices for data cleaning and visualizations.<br>🌱 I’m currently learning Microsoft Excel, SQL, Power BI.<br>💬 Ask me about Excel, Power BI, SQL.<br>⚡ I enjoy turning messy datasets into clean, structured information that tells a story. 
  
 
 ## 🌐 Socials: 
